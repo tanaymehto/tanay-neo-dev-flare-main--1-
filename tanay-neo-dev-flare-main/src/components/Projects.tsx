@@ -33,13 +33,13 @@ const Projects = () => {
       github: "https://github.com/chaudharymanik/VIT-Mess-Manager"
     },
     {
-      title: "Vehicle Parking Management App",
-      description: "CRUD web application for four-wheeler parking slot management with real-time availability tracking and efficient space utilization.",
+      title: "SyncLiked - Spotify Liked to Playlist",
+      description: "Intelligent Spotify integration tool that automatically converts your liked songs into organized playlists with smart categorization and music discovery features.",
       icon: Map,
       color: "text-accent",
       borderColor: "border-accent",
-      tech: ["Flask", "SQLAlchemy", "Jinja", "Bootstrap", "HTML"],
-      github: "https://github.com/tanaymehto/mad-1-project"
+      tech: ["React", "Node.js", "Spotify API", "Express.js", "OAuth 2.0", "JavaScript"],
+      github: "https://github.com/tanaymehto/spotify-liked-to-playlist"
     },
   ];
 

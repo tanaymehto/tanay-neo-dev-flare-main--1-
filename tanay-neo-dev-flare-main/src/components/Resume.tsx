@@ -23,7 +23,7 @@ const Resume = () => {
             </div>
             <h3 className="text-2xl font-semibold mb-4">Professional Resume</h3>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              AWS Certified Cloud Practitioner with dual-degree expertise in Computer Science and Data Science. Experience with enterprise systems, full-stack development, and AI solutions.
+              Dual-degree student pursuing B.Tech in Computer Science at VIT and BS in Data Science at IIT Madras. AWS Certified Cloud Practitioner with hands-on experience in enterprise systems, full-stack development, and AI-driven solutions.
             </p>
           </div>
 
@@ -33,7 +33,7 @@ const Resume = () => {
               size="lg"
               className="hover-lift bg-primary hover:bg-primary/90"
             >
-              <a href="/Tanay_Mehto_cv.pdf" download>
+              <a href="/Tanay_Mehto_Resume.pdf" download>
                 <Download className="w-5 h-5 mr-2" />
                 Download PDF
               </a>
@@ -46,25 +46,25 @@ const Resume = () => {
               <div>
                 <h5 className="font-medium text-primary mb-2">Education</h5>
                 <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• B.Tech CSE - VIT (2023-2027)</li>
+                  <li>• B.Tech Computer Science - VIT Vellore (2023-2027)</li>
                   <li>• BS Data Science - IIT Madras (2023-2028)</li>
-                  <li>• Foundation Certificate (ID: 23F2004044)</li>
+                  <li>• Current CGPA: Maintaining academic excellence</li>
                 </ul>
               </div>
               <div>
                 <h5 className="font-medium text-secondary mb-2">Experience</h5>
                 <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• Software Dev Intern - NTPC Limited</li>
-                  <li>• Template & Group Manager Websites</li>
-                  <li>• SAP/ERP & Enterprise Systems</li>
+                  <li>• Software Development Intern - NTPC Limited</li>
+                  <li>• Enterprise IT Solutions Development</li>
+                  <li>• Group Management System Implementation</li>
                 </ul>
               </div>
               <div>
                 <h5 className="font-medium text-accent mb-2">Key Projects</h5>
                 <ul className="text-sm text-muted-foreground space-y-1">
-                  <li>• Resume Analyzer with AI</li>
+                  <li>• AI-Powered Resume Analyzer Tool</li>
                   <li>• VIT Mess Management System</li>
-                  <li>• Vehicle Parking Management</li>
+                  <li>• Vehicle Parking Management App</li>
                 </ul>
               </div>
               <div>
@@ -79,7 +79,7 @@ const Resume = () => {
           </div>
 
           <div className="mt-6 text-sm text-muted-foreground">
-            Last updated: December 2024 | Version 2.1
+            Last updated: August 2025 | Version 3.0
           </div>
         </Card>
       </div>
