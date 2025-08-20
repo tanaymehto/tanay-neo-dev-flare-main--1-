@@ -47,10 +47,15 @@ const Navigation = () => {
           {/* Logo */}
           <button 
             onClick={() => scrollToSection('#')}
-            className="text-xl font-bold font-space-grotesk hover-lift"
+            className="text-sm font-mono font-medium hover-lift flex items-center space-x-1"
           >
-            <span className="text-primary">T</span>
-            <span className="text-secondary">M</span>
+            <span className="text-accent">$</span>
+            <span className="text-primary">tanay</span>
+            <span className="text-muted-foreground">@</span>
+            <span className="text-secondary">dev</span>
+            <span className="text-muted-foreground">:</span>
+            <span className="text-accent">~</span>
+            <span className="animate-pulse text-primary">_</span>
           </button>
 
           {/* Desktop Navigation */}
