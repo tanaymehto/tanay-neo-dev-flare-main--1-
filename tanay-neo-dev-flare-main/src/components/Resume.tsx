@@ -33,7 +33,7 @@ const Resume = () => {
               size="lg"
               className="hover-lift bg-primary hover:bg-primary/90"
             >
-              <a href="/Tanay_Mehto_Resume.pdf" download>
+                <a href="/cv.pdf" download>
                 <Download className="w-5 h-5 mr-2" />
                 Download PDF
               </a>
